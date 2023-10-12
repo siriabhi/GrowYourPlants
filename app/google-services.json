@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620431683461",
+    "project_id": "growyourplants-b2ed5",
+    "storage_bucket": "growyourplants-b2ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620431683461:android:4ba8f1fa28977b37681eec",
+        "android_client_info": {
+          "package_name": "com.example.growyourplants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxn1nPXmRd0LgpH7FTWH_QECPU7O22dwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
